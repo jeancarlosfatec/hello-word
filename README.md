@@ -2,3 +2,6 @@
 Apenas para anotações
 Teste realizado no Github, just for fun!!!
 Realização de teste
+
+
+Estudo de caso realizado
